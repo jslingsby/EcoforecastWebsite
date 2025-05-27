@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Events",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\ntraining\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/emma/index.html",
+    "href": "posts/emma/index.html",
+    "title": "EMMA",
+    "section": "",
+    "text": "For more information, see the project website."
+  },
+  {
+    "objectID": "current/ecoforecasting/index.html",
+    "href": "current/ecoforecasting/index.html",
+    "title": "Ecoforecast Africa",
+    "section": "",
+    "text": "Call for expressions of interest - please use this form\n\nEcoforecast Africa is the seed of an African chapter of the Ecological Forecasting Initiative (see other chapters here. For more information on ecological forecasting, watch the short video below or read Dietze et al. 2018 PNAS.\nAt this stage we are only gathering information of those interested in participating in, contributing to, or collaborating with the initiative. If that includes you, please fill in this Google Form. This information will only be used for Ecoforecast Africa planning activities and will not be shared with others or used for research purposes. Please note that form responses are not monitored, so if you have any queries please contact Jasper Slingsby directly.\nNote that Ecoforecast Africa may adopt a different model to other EFI chapters due to differences in the needs and resources of the region (see Slingsby et al. 2023 MEE). What model we adopt will be up for discussion. Also note that while we are kickstarting the initiative, we do not claim ownership and invite broad participation, diverse perspectives and suggestions for the best leadership model.\nThanks!\nJasper Slingsby1,2,3 and Glenn Moncrieff2,3\n1Biological Sciences, University of Cape Town\n2Fynbos Node, South African Environmental Observation Network (SAEON)\n3Centre for Statistics in Ecology, Environment and Conservation, University of Cape Town\n\nThe following 4 minute video will give you a glossy overview of what ecological forecasting is about:"
+  },
+  {
+    "objectID": "past/rretool/index.html",
+    "href": "past/rretool/index.html",
+    "title": "RReTool",
+    "section": "",
+    "text": "The NRF-funded RReTool project focused on developing Rapid and Repeatable tools for monitoring and mitigating global change impacts on natural resources in South Africa, predominantly using remote sensing.\nRecent advances in the availability of regularly updated, high resolution remotely-sensed data, combined with advances in computation have made it possible to monitor ecosystems at higher spatial and temporal resolution than previously possible. Much of the focus in research and the development of tools to make use of this new data has been in the forested ecosystems of the northern hemisphere and the tropics. More than 90% of South Africa’s terrestrial surface is covered by “open” non-forest ecosystems such as shrublands, woodlands and grasslands. Detecting abnormal change in these ecosystems is highly challenging, because the state of the vegetation varies dramatically due to natural disturbances, long-term trends or cyclical functions, such as those relating to fire, postfire recovery, and seasonality. Overcoming these challenges is critical, because open ecosystems dominate much of the globe, making up >40% of the global total ecosystem organic carbon and harbour a substantial proportion of the world’s biological diversity.\nWith the National Research Foundation funded RReTool project, we are developing tools to make full use of the potential of satellite data for monitoring the non-forests ecosystems that dominate South Africa, and to deepen our understanding of how they vary in space and time. Using this information we are improving our ability to manage and mitigate the impacts of threats such as invasive alien plants, land cover transformation and climatic change. All of this is being achieved using only freely available open source software, and publicly available data, and reproducible research principles. The information and tools generated will therefore be available at no expense to researchers and managers to use and modify as needed, allowing outputs to be regularly updated and/or improved. This will ensure that environmental resource management is informed by up-to-date accurate data."
+  },
+  {
+    "objectID": "index.html#past-projects",
+    "href": "index.html#past-projects",
+    "title": "Projects",
+    "section": "Past projects",
+    "text": "Past projects\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "current/emsafrica/index.html",
+    "href": "current/emsafrica/index.html",
+    "title": "EMSAfrica",
+    "section": "",
+    "text": "EMSAfrica is a collaborative research project between South Africa and Germany, bringing together different scientific disciplines and approaches to understand the impacts of land-use and climate change on the structure and function of southern African terrestrial ecosystems. The data and products are used to develop and test models and produce information relevant to ecosystem management in the region.\nFor more information see the project website."
+  },
+  {
+    "objectID": "current/bioscape/index.html",
+    "href": "current/bioscape/index.html",
+    "title": "NASA BioSCape Campaign",
+    "section": "",
+    "text": "The Biodiversity Survey of the Cape (BioSCape) is a NASA field campaign focused on the Greater Cape Floristic Region of South Africa. It is the first ever NASA campaign focused on remote sensing of biodiversity.\nFor more information, see the campaign website."
+  },
+  {
+    "objectID": "current/emma/index.html",
+    "href": "current/emma/index.html",
+    "title": "EMMA",
+    "section": "",
+    "text": "The Ecosystem Monitoring for Management Application (EMMA) is a NASA funded project to develop a near-real-time satellite change detection system for the Fynbos Biome using an ecological forecasting approach. It is based on the proof of concept published in Slingsby et al. 2020.\nFor more information, see the project website."
+  },
+  {
+    "objectID": "current/medecin/index.html",
+    "href": "current/medecin/index.html",
+    "title": "MedECIN",
+    "section": "",
+    "text": "MedECIN: the Mediterranean-Type Ecosystem Change Intercomparison Network.\n\nWhile compiling the content on Mediterranean-type ecosystems (MTEs) for the IPCC AR6 WGII Chapter 2 on Terrestrial and Freshwater Ecosystems and their Services, it became apparent that a collaboratively coordinated long-term research agenda for intercontinental comparisons of the response of Mediterranean-type plant communities to global change was needed.\nTo address this gap, our aim is to build a coordinated network of researchers from across the five MTEs (California USA, Central Chile, SW Australia, Mediterranean Basin, and the Cape Floristic Region of South Africa). Collaboration within MedECIN will consist of (inter alia): horizon scanning, conceptual development of research questions, standardising data collection protocols, field data collection, and open-access sharing of data and code. Combining and comparing long-term vegetation datasets will support cross-site and multi-member network research, while also guiding creation of new datasets. Our approach is focused on (but not limited to) early career researchers with a focus on MTEs, to foster education and training of a new generation of researchers.\nFor more details, contact Jasper or Hana."
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nforecasting\n\n\nglobal change\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "current/course_2025/index.html",
+    "href": "current/course_2025/index.html",
+    "title": "Ecoforecasting Course",
+    "section": "",
+    "text": "21-25 July 2025, Cape Town, South Africa\nCall for applications - please use this form"
+  },
+  {
+    "objectID": "current/course_2025/index.html#course-overview",
+    "href": "current/course_2025/index.html#course-overview",
+    "title": "Ecoforecasting Course",
+    "section": "Course overview",
+    "text": "Course overview\nThis course will provide an introduction to the theory and practice of ecological forecasting using a combination of lectures and practical sessions. Participants will be introduced to how to develop, evaluate, improve and communicate ecological forecasts, with an emphasis on practical applications in conservation and resource management. Topics include Bayesian statistics (simple models, hierarchical Bayes, state-space models, etc); fusing multiple data sources; forecast uncertainty propagation & assessment; iterative data assimilation (e.g. Kalman Filter, Ensemble Kalman Filter, Particle Filter); machine learning; decision science; and a range of ecological forecasting applications such as phenology, microbiomes, carbon, infectious disease, and aquatic productivity.\nThe course will be led by EFI founder Prof Michael Dietze (Boston University), supported by members of the Centre for Statistics in Ecology, the Environment and Conservation (SEEC) at the University of Cape Town, and others.\nThe course content will be based on previous courses run by the EFI, including the 2022 course. Further details will be shared here in due course."
+  },
+  {
+    "objectID": "index.html#current-events",
+    "href": "index.html#current-events",
+    "title": "Events",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\ntraining\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#past-events",
+    "href": "index.html#past-events",
+    "title": "Events",
+    "section": "Past events",
+    "text": "Past events\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  }
+]

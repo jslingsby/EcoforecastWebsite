@@ -1,0 +1,13 @@
+---
+title: "Ecoforecast Africa"
+---
+
+<center>
+
+![](assets/images/ecoforecast_elephant.png){width="100%"}</center>
+
+<br>
+
+Welcome to Ecoforecast Africa, the African chapter of the [Ecological Forecasting Initiative](https://ecoforecast.org/). This site serves as a hub for ecological forecasting in Africa, providing tools, resources, and a community for researchers, practitioners, and enthusiasts interested in ecological forecasting.
+
+Please [**JOIN US**](https://forms.gle/8TFEigaaWoJPGXPe8) to receive updates on our activities and events.

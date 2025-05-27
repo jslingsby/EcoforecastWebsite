@@ -1,0 +1,19 @@
+---
+title: ""
+about:
+  image: assets/images/africa.png
+  template: jolla
+  image-width: 15em
+---
+
+### Welcome to Ecoforecast Africa!
+
+This is the African chapter of the [Ecological Forecasting Initiative](https://ecoforecast.org/).
+
+Our mission is to build a community of practice around near-term iterative ecological forecasting in Africa, aiming at improving our fundamental understanding of African ecosystems and translating that knowledge into tools to assist their management and conservation.
+
+Please [**JOIN US**](https://forms.gle/8TFEigaaWoJPGXPe8) to receive updates on our activities and events.
+
+For more information on ecological forecasting, watch the short video (4 minutes) below or read [Dietze et al. 2018 *PNAS*](https://doi.org/10.1073/pnas.1710231115){target="_blank"}.
+
+<iframe width="100%" height="56.5%" src="https://www.youtube.com/embed/Lgi_e7N-C8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
