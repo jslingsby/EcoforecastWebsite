@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Ecoforecast Africa"
+  site-url: https://ecoforecast.africa
+  description: "Home of the African Chapter of the Ecological Forecasting Initiative"
+  reader-mode: true
+  repo-url: https://github.com/ecoforecast-africa/Website
+  repo-actions: [edit, issue]
+  page-navigation: true
+  page-footer: "Made with Quarto. Images copyright. Text CC-BY-4.0. Template CC-0." 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: events/index.qmd
+        text: Events
+        
+    right:
+      - href: https://github.com/ecoforecast-africa
+        icon: "github"
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+
+

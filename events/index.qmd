@@ -1,0 +1,29 @@
+---
+title: "Events"
+listing:
+- id: past
+  contents: past
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+- id: current
+  contents: current
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---
+
+## Current events
+
+::: {#current}
+:::
+
+## Past events
+
+::: {#past}
+:::
