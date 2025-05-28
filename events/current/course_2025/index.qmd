@@ -3,7 +3,7 @@ title: "Ecoforecasting Course"
 author: ""
 date: ""
 categories: [training]
-image: "africa.png"
+image: "NEON_NearTermEcoforecasting.png"
 ---
 
 21-25 July 2025, Cape Town, South Africa
