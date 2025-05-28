@@ -16,6 +16,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: join.qmd
+        text: Join us
       - href: events/index.qmd
         text: Events
         
