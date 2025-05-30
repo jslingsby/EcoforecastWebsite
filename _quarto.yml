@@ -4,6 +4,7 @@ project:
 website:
   title: "Ecoforecast Africa"
   google-analytics: "G-7PDQDP7TKJ"
+  favicon: assets/icon.png
   site-url: https://ecoforecast.africa
   description: "Home of the African Chapter of the Ecological Forecasting Initiative"
   reader-mode: true
