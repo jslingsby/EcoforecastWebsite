@@ -1,0 +1,47 @@
+---
+title: "Ecoforecasting Course"
+author: ""
+date: ""
+categories: [training]
+image: "NEON_NearTermEcoforecasting.png"
+---
+
+21-25 July 2025, University of Cape Town, South Africa
+
+![](NEON_NearTermEcoforecasting.png){width="100%"}</left>
+
+## Course overview
+
+The course provided an introduction to the theory and practice of ecological forecasting using a combination of lectures and practical sessions. Participants were introduced to how to develop, evaluate, improve and communicate ecological forecasts, with an emphasis on practical applications in conservation and resource management. Topics included Bayesian statistics (simple models, hierarchical Bayes, state-space models, etc); fusing multiple data sources; forecast uncertainty propagation & assessment; iterative data assimilation (e.g. Kalman Filter, Ensemble Kalman Filter, Particle Filter); decision support; and a range of ecological forecasting applications such as phenology, streamflow, anumal counts, carbon fluxes and infectious disease.
+
+Instruction was led by EFI founder Prof Michael Dietze (Boston University), supported by Dr Jasper Slingsby and Dr Murray Christian of the Centre for Statistics in Ecology, the Environment and Conservation ([SEEC](https://science.uct.ac.za/seec)) at the University of Cape Town.
+
+The course was supported by the University of Cape Town through the use of facilities and Visiting Scholar Fund and University Research Council grants to Dr Jasper Slingsby. Further funding support and datasets were provided by the South African Environmental Observation Network ([SAEON](www.saeon.ac.za)).
+
+## Course Content
+
+The course content was largely adapted from previous courses run by the EFI. The full syllabus with timetable, setup instructions etc is available [here](https://docs.google.com/document/d/1C3eUnVJmV5t_K2vtE4hUzEtpTpfLsxjShI_PFMeBPOc/edit?usp=sharing). All lectures are available in [this GitHub repository](https://github.com/ecoforecast-africa/efi_course_2025) and linked to below.
+
+Lectures include:
+
+1. [Why forecast?](https://ecoforecast-africa.github.io/efi_course_2025/lectures/EcoForecast2025AEFI_WhyForecast_Lecture01.pdf)
+2. [Forecast Infrastructure](https://ecoforecast-africa.github.io/efi_course_2025/lectures/ForecastInfrastructure.html)
+3. [Intro to Bayes](https://ecoforecast-africa.github.io/efi_course_2025/lectures/bayes_primer.html)
+4. [Expert Elicitation](https://ecoforecast-africa.github.io/efi_course_2025/lectures/Ecoforecast2025AEFI_Elicitation_Lecture04.pdf)
+5. [Characterizing Uncertainty](https://ecoforecast-africa.github.io/efi_course_2025/lectures/EF_Lesson6_CharacterizingUncertainty.2021.pdf)
+6. [Hierarchical Bayes](https://ecoforecast-africa.github.io/efi_course_2025/lectures/Lesson22_HB.pdf)
+7. [State Space Models](https://ecoforecast-africa.github.io/efi_course_2025/lectures/StateSpace.html)
+8. [Dynamic Models](https://ecoforecast-africa.github.io/efi_course_2025/lectures/dynamic_models.html) and [Bonus Content](https://ecoforecast-africa.github.io/efi_course_2025/lectures/05_DynamicModels_Mike.pdf)
+9. [Projection and Decision Support](https://ecoforecast-africa.github.io/efi_course_2025/lectures/DecisionSupport.html)
+10. [Propagating Uncertainty](https://ecoforecast-africa.github.io/efi_course_2025/lectures/Ecoforecast2025AEFI_Lecture08_Uncertainty.pdf)
+11. [Analytical Data Assimilation](https://ecoforecast-africa.github.io/efi_course_2025/lectures/Ecoforecast2025AEFI_Lecture09_DA1.pdf)
+12. [Ensemble Data Assimilation](https://ecoforecast-africa.github.io/efi_course_2025/lectures/Ecoforecast2025AEFI_Lecture11_DA2.pdf)
+13. [Model Assessment](https://ecoforecast-africa.github.io/efi_course_2025/lectures/Ecoforecast2025AEFI_Lecture12_Diagnostics.pdf)
+
+The course included hands-on activities, which can be accessed [here](https://github.com/EcoForecast/EF_Activities). Participants also undertook group projects based on one of the following themes (see links for separate git repositories for each project):
+
+- [Predicting stream flow and flood events in the Jonkershoek catchments](https://github.com/ecoforecast-africa/streamflow_jonkershoek)
+- [Predicting carbon and water fluxes from eddy-covariance](https://github.com/ecoforecast-africa/flux_jonkershoek)
+- [Predicting waterbird population abundance from count data](https://github.com/ecoforecast-africa/BIRDIE_abundance)
+
+

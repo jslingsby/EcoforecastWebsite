@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Events",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\ntraining\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "posts/emma/index.html",
@@ -102,13 +102,34 @@
     "href": "index.html#past-events",
     "title": "Events",
     "section": "Past events",
-    "text": "Past events\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "Past events\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nEcoforecasting Course\n\n\n\ntraining\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#upcoming-events",
     "href": "index.html#upcoming-events",
     "title": "Events",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\ntraining\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
+  },
+  {
+    "objectID": "past/course_2025/index.html",
+    "href": "past/course_2025/index.html",
+    "title": "Ecoforecasting Course",
+    "section": "",
+    "text": "21-25 July 2025, University of Cape Town, South Africa"
+  },
+  {
+    "objectID": "past/course_2025/index.html#course-overview",
+    "href": "past/course_2025/index.html#course-overview",
+    "title": "Ecoforecasting Course",
+    "section": "Course overview",
+    "text": "Course overview\nThe course provided an introduction to the theory and practice of ecological forecasting using a combination of lectures and practical sessions. Participants were introduced to how to develop, evaluate, improve and communicate ecological forecasts, with an emphasis on practical applications in conservation and resource management. Topics included Bayesian statistics (simple models, hierarchical Bayes, state-space models, etc); fusing multiple data sources; forecast uncertainty propagation & assessment; iterative data assimilation (e.g. Kalman Filter, Ensemble Kalman Filter, Particle Filter); decision support; and a range of ecological forecasting applications such as phenology, streamflow, anumal counts, carbon fluxes and infectious disease.\nInstruction was led by EFI founder Prof Michael Dietze (Boston University), supported by Dr Jasper Slingsby and Dr Murray Christian of the Centre for Statistics in Ecology, the Environment and Conservation (SEEC) at the University of Cape Town.\nThe course was supported by the University of Cape Town through the use of facilities and Visiting Scholar Fund and University Research Council grants to Dr Jasper Slingsby. Further funding support and datasets were provided by the South African Environmental Observation Network (SAEON)."
+  },
+  {
+    "objectID": "past/course_2025/index.html#course-content",
+    "href": "past/course_2025/index.html#course-content",
+    "title": "Ecoforecasting Course",
+    "section": "Course Content",
+    "text": "Course Content\nThe course content was largely adapted from previous courses run by the EFI. The full syllabus with timetable, setup instructions etc is available here. All lectures are available in this GitHub repository and linked to below.\nLectures include:\n\nWhy forecast?\nForecast Infrastructure\nIntro to Bayes\nExpert Elicitation\nCharacterizing Uncertainty\nHierarchical Bayes\nState Space Models\nDynamic Models and Bonus Content\nProjection and Decision Support\nPropagating Uncertainty\nAnalytical Data Assimilation\nEnsemble Data Assimilation\nModel Assessment\n\nThe course included hands-on activities, which can be accessed here. Participants also undertook group projects based on one of the following themes (see links for separate git repositories for each project):\n\nPredicting stream flow and flood events in the Jonkershoek catchments\nPredicting carbon and water fluxes from eddy-covariance\nPredicting waterbird population abundance from count data"
   }
 ]

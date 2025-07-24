@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -99,9 +99,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -194,9 +194,26 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="upcoming-events">Upcoming events</h2>
 <div id="listing-current" class="quarto-listing quarto-listing-container-grid">
 <div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="past-events" class="level2">
+<h2 class="anchored" data-anchor-id="past-events">Past events</h2>
+<div id="listing-past" class="quarto-listing quarto-listing-container-grid">
+<div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-current-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-current'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+     <select id="listing-past-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-past'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
          <option value="listing-title" data-direction="asc">
@@ -213,11 +230,11 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="training" data-listing-file-modified-sort="1748416978727" data-listing-reading-time-sort="1">
-<a href="./current/course_2025/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="training" data-listing-file-modified-sort="1753358747976" data-listing-reading-time-sort="2">
+<a href="./past/course_2025/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./current/course_2025/NEON_NearTermEcoforecasting.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="./past/course_2025/NEON_NearTermEcoforecasting.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -229,7 +246,7 @@ training
 </div>
 </div>
 <div class="card-text listing-description">
-21-25 July 2025, Cape Town, South Africa
+21-25 July 2025, University of Cape Town, South Africa
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -240,23 +257,6 @@ training
 </div>
 </a>
 </div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="past-events" class="level2">
-<h2 class="anchored" data-anchor-id="past-events">Past events</h2>
-<div id="listing-past" class="quarto-listing quarto-listing-container-grid">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-
 </div>
 <div class="listing-no-matching d-none">
 No matching items
